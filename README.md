@@ -79,7 +79,7 @@ Siempre estoy dispuesto a colaborar en desarrollo Backend, creación de páginas
 <div align="center">
   <a href="https://github.com/CristianEuscategui"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/cristianeuscategui"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:tu_correo@gmail.com"><img src="https://img.shields.io/badge/ENVIAR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="euscateguibravoc@gmail.com"><img src="https://img.shields.io/badge/ENVIAR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
 <br />

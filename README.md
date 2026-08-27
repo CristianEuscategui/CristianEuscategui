@@ -65,8 +65,9 @@
 ### 📊 Métricas y Estadísticas de Desarrollo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianEuscategui&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianEuscategui&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianEuscategui&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianEuscategui&layout=compact&theme=tokyonight&hide_border=true" alt="Idiomas más utilizados" />
 </div>
 
 ---
